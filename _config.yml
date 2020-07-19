@@ -1,0 +1,32 @@
+title: Code Journal
+author: Yash Kothari
+email: yashkothari199767@gmail.com
+url: https://captaindavinci.github.io/
+description: > 
+    Lies somewhere in-between a blog and a journal.
+favicon: "./favicon.ico" 
+
+show_excerpts: true
+
+social:
+  name: CaptainDaVinci
+  links:
+    - https://github.com/CaptainDaVinci
+    - https://linkedin.com/in/captaindavinci
+    - https://stackoverflow.com/users/7213370/captaindavinci
+  
+moving:
+  date_format: "%b %d" 
+  back_to: "Home" 
+
+  social_links:
+    github:  CaptainDaVinci
+    linkedin: captaindavinci 
+    stackoverflow: https://stackoverflow.com/users/7213370/captaindavinci
+    rss: RSS
+
+remote_theme: huangyz0918/moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

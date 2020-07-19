@@ -1,0 +1,36 @@
+{%- assign social = site.moving.social_links -%}
+
+<ul class="social-media-list">
+  {%- if social.github -%}
+  <li>
+    <a
+      class="black-link"
+      href="https://github.com/{{ social.github | cgi_escape | escape }}"
+      > <i class="fa fa-github" style="font-size: 24px"></i></a
+    >
+  </li>
+  {%- endif -%} {%- if social.stackoverflow -%}
+  <li>
+    <a
+      class="black-link"
+      href="https://stackoverflow.com/users/7213370/captaindavinci"
+      > <i class="fa fa-stack-overflow" style="font-size: 24px"></i></a
+    >
+  </li>
+  {%- endif -%} {%- if social.linkedin -%}
+  <li>
+    <a
+      class="black-link"
+      href="https://www.linkedin.com/in/{{
+        social.linkedin | cgi_escape | escape
+      }}"
+      > <i class="fa fa-linkedin" style="font-size: 24px"></i></a
+    >
+  </li>
+  {%- endif -%} {%- if social.rss -%}
+  <li>
+    <a class="black-link" href="{{ 'feed.xml' | relative_url }}">
+     <i class="fa fa-rss" style="font-size: 24px"></i></a>
+  </li>
+  {%- endif -%}
+</ul>
