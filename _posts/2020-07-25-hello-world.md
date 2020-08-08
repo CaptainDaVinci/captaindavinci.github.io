@@ -10,7 +10,7 @@ the field of software development and computer science. I hope this post will be
 everyone, including myself, to improve! 
 
 <div style="text-align: center">
-    <img alt="Welcome GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif"/>
+  <img alt="Welcome GIF" src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif"/>
 </div>
 
 
