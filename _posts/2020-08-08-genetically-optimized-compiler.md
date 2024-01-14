@@ -2,7 +2,7 @@
 layout: post
 title: "Genetically Optimized Compiler Flags"
 description: "Optimizing GCC compiler flag selection using genetic algorithm"
-meta: "project"
+meta: "gcc,optimize,compiler flags,genetic algorithm"
 math: true
 ---
 

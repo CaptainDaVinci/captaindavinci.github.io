@@ -2,7 +2,7 @@
 layout: post
 title: "PySpark over SQL for ETL pipelines"
 description: "Moving from SQL First to PySpark First Approach for Developing Pipelines"
-meta: "project"
+meta: "PySpark,unit tests,data engineering,python,apache spark,spark,data pipelines,ETL pipelines"
 ---
 
 Most of the data pipelines today are built with a SQL first approach where we have a bunch of SQL queries disguised under python scripts. 
