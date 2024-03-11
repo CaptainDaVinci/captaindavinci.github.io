@@ -7,7 +7,7 @@ meta: "compression,bulk,images,png,jpg,jpeg,privacy,free,wasm"
 
 # Bulk Image Compression Service
 
-A project born out of the desire to provide a straightforward and free solution for compressing images in bulk. This service supports a variety of image formats, including JPG, JPEG, and PNG, and it's all available to you at no cost. Let's dive into the details. 
+A project born out of the desire to provide a straightforward and free solution for compressing images in bulk. This service supports a variety of image formats, including JPG, JPEG, and PNG, and it's all available to you at no cost.
 
 ### Why?
 
